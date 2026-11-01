@@ -1,0 +1,36 @@
+{
+  "app": "floor-planner",
+  "format": 1,
+  "exportedAt": "2026-10-30T12:50:12.585Z",
+  "project": {
+    "id": "proj_299mh5odyj",
+    "name": "Smoke Test House",
+    "lot": "ocean",
+    "rooms": [
+      {
+        "id": "room_t37roone8s",
+        "name": "Room 1",
+        "x": 1,
+        "y": 1,
+        "w": 1,
+        "h": 5,
+        "lshape": null,
+        "armW": 0,
+        "armH": 0
+      },
+      {
+        "id": "room_67i6oyyero",
+        "name": "Room 2",
+        "x": 10,
+        "y": 10,
+        "w": 1,
+        "h": 2,
+        "lshape": null,
+        "armW": 0,
+        "armH": 0
+      }
+    ],
+    "createdAt": 1793364605803,
+    "updatedAt": 1793364610934
+  }
+}
